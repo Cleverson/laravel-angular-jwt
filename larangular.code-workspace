@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "jwt-frontend"
+		},
+		{
+			"path": "jwt-backend"
+		}
+	],
+	"settings": {}
+}
